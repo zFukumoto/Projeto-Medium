@@ -14,7 +14,8 @@ Praticar HTML e CSS recriando a estrutura e o layout de um site real.
 ## Funcionalidades
 
 - Header com navegação
-- Em Desenvolvimento
+- Topo com Botão
+- Área de Conteúdos (Desenvolvimento)
 
 ## Observação
 
