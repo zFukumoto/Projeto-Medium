@@ -16,7 +16,7 @@ Praticar HTML e CSS recriando a estrutura e o layout de um site real.
 - Header
 - Topo com Botão
 - Área de Conteúdos
-- Footer (Em Desenvolvimento)
+- Footer
 
 ## Observação
 
