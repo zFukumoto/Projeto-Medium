@@ -66,6 +66,11 @@ ul#menu li.iniciar a:hover {
 #tendencias {
     padding-top: 0.8rem;
 }
+#tendencias::after {
+    content: "";
+    display: table;
+    clear:both;
+}
 .item-tendencia {
     width: 26%;
     padding-left: 7%;
@@ -81,6 +86,10 @@ ul#menu li.iniciar a:hover {
     top: 0;
     left: 0;
     font-family: Consolas, 'Courier New', monospace;
+}
+footer {
+    background-color: #c5eefe;
+    border-top: 1px solid black;
 }
 /* Tipografia */
 h1 {
